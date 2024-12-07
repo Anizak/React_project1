@@ -28,7 +28,7 @@ function App() {
   return (
     <div className="App">
       {/* <AlertContext.Provider value={alert}> */}
-      <AlertProvider>
+      {/* <AlertProvider> */}
         {/* <Header /> */}
         {/* <Test name={'Ani'} age={23} surname='Zakaryan' address='somewhere' callbackForAge={getAge}/> */}
         {/* <LearnState/> 
@@ -39,8 +39,8 @@ function App() {
         {/* <LearnUseReducer/> */}
         {/* <Alert /> */}
         {/* <Main toggle={changeAlert} /> */}
-        <Main />
-      </AlertProvider>
+        {/* <Main />
+      </AlertProvider> */}
       {/* </AlertContext.Provider> */}
       {/* <CustomHook /> */}
     </div>
