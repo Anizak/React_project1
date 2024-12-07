@@ -1,0 +1,47 @@
+.mainBox{
+    width: 100%;
+    min-height: 500px;
+    background-color: pink;
+}
+
+.mainBox .timeBox{
+    width: 100%;
+    height: 80px;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainBox .inputBox{
+    width: 100%;
+    height: 80px;
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.mainBox .inputField{
+    width: 300px;
+    height: 30px;
+    background-color: aliceblue;
+}
+
+.mainBox .position{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainBox .data{
+    width: 100%;
+    min-height: 100px;
+    background-color: rgb(251, 219, 219);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

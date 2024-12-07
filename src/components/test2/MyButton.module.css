@@ -1,9 +1,11 @@
-.button{
-    width: 200px;
-    height: 40px;
-    background-color: rgb(50, 44, 36);
-    border: none;
-    color: white;
-    display: flex;
-    margin: 20px;
+.button {
+  width: 200px;
+  height: 40px;
+  background-color: rgb(50, 44, 36);
+  border: none;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
 }

@@ -1,0 +1,32 @@
+.mainBox{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.mainBox p{
+    color: white;
+}
+
+.mainBox .usersBox{
+    width: 400px;
+    height: 100px;
+    background-color: beige;
+}
+.mainBox .inputField{
+    width: 300px;
+    height: 30px;
+}
+
+.mainBox .btn{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(112, 112, 252);
+    border: none;
+    color:aqua
+}
